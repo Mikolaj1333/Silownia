@@ -30,7 +30,7 @@ while ($user = $result->fetch_array()) {
 
         <a href="#">Menu</a>
         <ul>
-          <li><a href="profil_new.html">kutas</a></li>
+          <li><a href="profil_new.html">Nowy użytkownik</a></li>
           <li><a href="treningi.php">Trening</a></li>
           <li><a href="zajecia.html">Zajęcia</a></li>
           <li><a href="#">Trenerzy</a></li>
