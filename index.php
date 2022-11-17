@@ -7,7 +7,7 @@ GROUP BY profil.id, profil.imie;");
 $users = [];
 while ($user = $result->fetch_array()) {
   $users[] = $user;
-}
+} 
 
 ?>
 <!DOCTYPE html>
